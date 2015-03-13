@@ -1,0 +1,3 @@
+A project geared to allowing non-profit groups a way to pool resources into projects more efficiently.  Groups like Engineers Without Borders and other large organizations which have chapters all over the world, need a way to work on projects more  efficiently and decrease overlap.
+
+This goal of this project is to use GWT with app engine, to create a platform for chapters to upload there project resources(docs, PDFs, videos, CAD designs, comments, etc) so that other chapters can use this data and contribute back and success they may have had, instead of starting from scratch and repeating the same mistakes multiple times.
